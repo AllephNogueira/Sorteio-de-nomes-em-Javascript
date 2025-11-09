@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorteio de Nomes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎲 Sorteio de Nomes</h1>
+        
+        <div class="input-section">
+            <div class="input-group">
+                <input 
+                    type="text" 
+                    id="nomeInput" 
+                    placeholder="Digite um nome e pressione Enter"
+                    autocomplete="off"
+                >
+                <button id="adicionarBtn">Adicionar</button>
+            </div>
+        </div>
+
+        <div class="lista-section">
+            <h2>Participantes (<span id="contador">0</span>)</h2>
+            <div id="listaNomes" class="lista-nomes"></div>
+            <button id="limparBtn" class="btn-secundario">Limpar Lista</button>
+        </div>
+
+        <div class="sorteio-section">
+            <button id="sortearBtn" class="btn-sortear" disabled>🎯 Sortear</button>
+            <div id="resultado" class="resultado"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
