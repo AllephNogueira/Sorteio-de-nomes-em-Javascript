@@ -1,5 +1,8 @@
 # 🎲 Aplicativo de Sorteio de Nomes
 
+
+![Imagem apresentação do projeto](https://github.com/AllephNogueira/Sorteio-de-nomes-em-Javascript/blob/main/pagina.png)
+
 Um aplicativo web simples e moderno para sortear nomes aleatoriamente.
 
 ## 📋 Funcionalidades
