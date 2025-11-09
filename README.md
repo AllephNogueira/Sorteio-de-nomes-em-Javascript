@@ -16,7 +16,7 @@ Um aplicativo web simples e moderno para sortear nomes aleatoriamente.
 
 ## 🚀 Como usar
 
-1. Abra o arquivo `index.html` no seu navegador
+1. Abra o arquivo `index.html` no seu navegador ou acesse o site https://allephnogueira.github.io/Sorteio-de-nomes-em-Javascript/
 2. Digite um nome no campo de texto
 3. Pressione Enter ou clique em "Adicionar"
 4. Repita para adicionar mais nomes
